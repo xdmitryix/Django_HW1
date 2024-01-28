@@ -1,0 +1,42 @@
+Watching for file changes with StatReloader
+D:\�����\Django\Homework\Homework_one\pythonProject\homework_one\my_project\my_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 17
+"GET /about/ HTTP/1.1" 200 17
+"GET /about/ HTTP/1.1" 200 17
+D:\�����\Django\Homework\Homework_one\pythonProject\homework_one\my_project\my_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 17
+"GET / HTTP/1.1" 200 20
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 20
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2548
+"GET /about HTTP/1.1" 301 0
+About page accessed
+"GET /about/ HTTP/1.1" 200 17
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed <class 'datetime.datetime'>
+"GET / HTTP/1.1" 200 20
+About page accessed <class 'datetime.datetime'>
+"GET /about/ HTTP/1.1" 200 17
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+About page accessed <class 'datetime.time'>
+"GET /about/ HTTP/1.1" 200 17
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+About page accessed <module 'datetime' from 'C:\\Users\\rbdem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py'>
+"GET /about/ HTTP/1.1" 200 17
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+About page accessed 2024-01-28 23:09:20.851257
+"GET /about/ HTTP/1.1" 200 17
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2548
+D:\учеба\Django\Homework\Homework_one\pythonProject\homework_one\my_project\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
